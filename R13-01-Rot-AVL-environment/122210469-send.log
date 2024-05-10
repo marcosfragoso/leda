@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-05-04T23:30:17.977-0300</date>
+  <logger>MARCOS VINICIUS FRAGOSO DE OLIVEIRA</logger>
+  <level>FINE</level>
+  <message>File 122210469-MARCOS VINICIUS FRAGOSO DE OLIVEIRA.zip was received. It was sent by MARCOS VINICIUS FRAGOSO DE OLIVEIRA from IP 192.168.18.181 at 04-05-2024 23*30*17</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-05-05T16:42:07.507-0300</date>
+  <logger>MARCOS VINICIUS FRAGOSO DE OLIVEIRA</logger>
+  <level>FINE</level>
+  <message>File 122210469-MARCOS VINICIUS FRAGOSO DE OLIVEIRA.zip was received. It was sent by MARCOS VINICIUS FRAGOSO DE OLIVEIRA from IP 192.168.18.181 at 05-05-2024 16*42*07</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-05-10T13:38:11.271-0300</date>
+  <logger>MARCOS VINICIUS FRAGOSO DE OLIVEIRA</logger>
+  <level>FINE</level>
+  <message>File 122210469-MARCOS VINICIUS FRAGOSO DE OLIVEIRA.zip was received. It was sent by MARCOS VINICIUS FRAGOSO DE OLIVEIRA from IP 192.168.18.181 at 10-05-2024 13*38*11</message>
+</record>
